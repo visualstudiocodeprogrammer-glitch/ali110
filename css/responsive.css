@@ -1,0 +1,36 @@
+/* Mobile first: base styles target phones; these rules add the larger layouts. */
+@media (min-width: 960px) {
+  .hero__inner { grid-template-columns: 1.15fr 1fr; gap: 3rem; }
+  .hero__copy { order: 0; }
+  .hero__logo-wrap { order: 1; }
+  .hero__logo { width: clamp(300px, 34vw, 460px); }
+}
+
+@media (max-width: 959px) {
+  .menu-btn { display: inline-flex; }
+  .site-header { position: sticky; }
+  .nav { display: none; position: absolute; inset-inline: 0; inset-block-start: 100%; max-height: calc(100vh - var(--header-h)); overflow: auto; padding: 0.5rem 1rem 1.25rem; background: var(--brand-deep); border-block-end: 1px solid rgba(214, 182, 110, 0.4); }
+  .is-menu-open .nav { display: block; }
+  .nav__list { flex-direction: column; align-items: stretch; gap: 0; }
+  .nav__link { width: 100%; min-height: 48px; font-size: 1rem; }
+  .nav__link[aria-current="page"] { box-shadow: none; background: rgba(214, 182, 110, 0.16); }
+  .nav__group-btn { display: none; }
+  .nav__sub { position: static; display: block; min-width: 0; padding: 0; background: none; border: 0; box-shadow: none; }
+  .footer__grid { grid-template-columns: 1fr 1fr; }
+  .footer__brand { grid-column: 1 / -1; }
+}
+
+@media (max-width: 640px) {
+  .section-head { flex-direction: column; align-items: start; }
+  .daily__head { align-items: start; }
+  .footer__grid { grid-template-columns: 1fr; gap: 1.75rem; }
+  .result { flex-direction: column; gap: 0.2rem; }
+  .player__volume { width: 100%; }
+  .player__main { flex-basis: calc(100% - 70px); }
+  .lightbox__nav--prev { inset-inline-start: 0; }
+  .lightbox__nav--next { inset-inline-end: 0; }
+}
+
+@media (hover: none) {
+  .gallery-item:hover img { transform: none; }
+}

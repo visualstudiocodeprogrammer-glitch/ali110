@@ -1,0 +1,72 @@
+/* Design tokens. Light and dark are separate palettes, not an inversion. */
+:root {
+  --brand-green: #063f38;
+  --brand-deep: #04302b;
+  --emerald: #087f68;
+  --turquoise: #35b6a4;
+  --cream: #f7f7f0;
+  --gold: #d6b66e;
+  --night: #101b19;
+  --night-2: #172723;
+
+  /* header, hero and footer stay deep green in both themes so the gold logo always has contrast */
+  --on-brand: #f4f1e6;
+  --on-brand-muted: #bdd0ca;
+
+  --font-body: "Vazirmatn", system-ui, -apple-system, "Segoe UI", Tahoma, sans-serif;
+  --font-display: "Amiri", "Vazirmatn", Georgia, serif;
+  --font-arabic: "Amiri", "Scheherazade New", "Traditional Arabic", serif;
+
+  --radius-s: 8px;
+  --radius: 14px;
+  --radius-l: 22px;
+  --header-h: 68px;
+  --ease: cubic-bezier(0.2, 0.6, 0.2, 1);
+  color-scheme: light;
+}
+
+:root,
+[data-theme="light"] {
+  --bg: #f7f7f0;
+  --bg-sunken: #edefe5;
+  --surface: #ffffff;
+  --surface-2: #f2f4ec;
+  --text: #14211e;
+  --text-2: #36473f;
+  --muted: #55655f;
+  --accent: #066a58;
+  --accent-hover: #04504a;
+  --accent-soft: rgba(8, 127, 104, 0.1);
+  --gold-ink: #7a5c10;
+  --gold-line: #b8963f;
+  --border: rgba(6, 63, 56, 0.14);
+  --border-strong: rgba(6, 63, 56, 0.3);
+  --shadow: 0 1px 2px rgba(6, 63, 56, 0.06), 0 10px 26px -14px rgba(6, 63, 56, 0.22);
+  --focus: #087f68;
+  --ok-bg: #dff3ec; --ok-fg: #05503f;
+  --link-bg: #f4ecd2; --link-fg: #6a4e08;
+  --warn-bg: #f8e3df; --warn-fg: #7d2a1f;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #101b19;
+  --bg-sunken: #0b1413;
+  --surface: #172723;
+  --surface-2: #1e332e;
+  --text: #ecefe6;
+  --text-2: #c9d5cf;
+  --muted: #9fb2ab;
+  --accent: #52cdb9;
+  --accent-hover: #7ddccb;
+  --accent-soft: rgba(53, 182, 164, 0.14);
+  --gold-ink: #e3c77f;
+  --gold-line: #d6b66e;
+  --border: rgba(247, 247, 240, 0.12);
+  --border-strong: rgba(247, 247, 240, 0.3);
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.45), 0 14px 30px -16px rgba(0, 0, 0, 0.7);
+  --focus: #52cdb9;
+  --ok-bg: #12382f; --ok-fg: #8fe3cf;
+  --link-bg: #3a3014; --link-fg: #ecd491;
+  --warn-bg: #43211c; --warn-fg: #f2b3a9;
+}

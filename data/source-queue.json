@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "note": "Pages the daily job reads, one per day, oldest first. Add { \"url\": \"https://...\" } entries to 'pending'. Only hosts listed in scripts/sources.config.json are fetched.",
+  "pending": [],
+  "done": []
+}

@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "items": [
+    { "id": "typo-knowledge-mirror", "hadithId": "nahj-hikma-005", "style": "emerald", "featured": true, "addedAt": "2026-11-04" },
+    { "id": "typo-worth", "hadithId": "nahj-hikma-081", "style": "gold", "featured": true, "addedAt": "2026-11-04" },
+    { "id": "typo-knowledge-action", "hadithId": "nahj-hikma-366", "style": "night", "featured": true, "addedAt": "2026-11-04" },
+    { "id": "typo-constancy", "hadithId": "nahj-hikma-444", "style": "cream", "featured": false, "addedAt": "2026-11-04" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ali110",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ali110: a bilingual (Persian/English) static website about Imam Ali (a), built for GitHub Pages.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build-pages.js",
+    "build:dist": "node scripts/build-pages.js --out dist",
+    "validate": "node scripts/validate-content.js",
+    "test": "node --test",
+    "check": "npm run validate && npm test",
+    "daily": "node scripts/fetch-daily-hadith.js",
+    "daily:dry": "node scripts/fetch-daily-hadith.js --dry-run"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

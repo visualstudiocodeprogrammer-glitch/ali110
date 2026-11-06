@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "laylat-al-mabit",
+      "title": { "fa": "لیلة المبیت: شب هجرت", "en": "Laylat al-Mabit: the night of the Hijra" },
+      "summary": {
+        "fa": "شبی که علی (ع) در بستر پیامبر (ص) خوابید تا توطئهٔ قتل او ناکام بماند.",
+        "en": "The night Ali (a) slept in the Prophet's (s) bed so that the plot against his life would fail."
+      },
+      "period": { "fa": "آغاز هجرت، ۶۲۲ میلادی", "en": "Beginning of the Hijra, 622 CE" },
+      "body": {
+        "fa": [
+          "قریش برای کشتن پیامبر (ص) توطئه‌ای چیده بود. بر پایهٔ گزارش‌های تاریخی، پیامبر شبانه مکه را به مقصد یثرب ترک کرد و امام علی (ع) در بستر او خوابید تا مهاجمان از رفتن او آگاه نشوند.",
+          "این شب «لیلة المبیت» (شب خوابیدن) نام دارد. بامداد، مهاجمان با شمشیرهای کشیده وارد خانه شدند و به جای پیامبر، علی (ع) را در بستر دیدند.",
+          "بسیاری از منابع شیعی آیهٔ ۲۰۷ سورهٔ بقره (آیهٔ شراء) را دربارهٔ همین فداکاری می‌دانند. در منابع اهل سنت نیز روایت‌هایی هست که این آیه را دربارهٔ افراد دیگری می‌دانند؛ پس دربارهٔ شأن نزول آن اختلاف نظر وجود دارد."
+        ],
+        "en": [
+          "The Quraysh had plotted to kill the Prophet (s). According to historical reports, the Prophet left Mecca by night for Yathrib, and Imam Ali (a) slept in his bed so that the attackers would not realise he had gone.",
+          "This night is called Laylat al-Mabit, \"the night of sleeping\". In the morning the attackers broke in with drawn swords and found Ali (a) in the bed instead of the Prophet.",
+          "Many Shia sources hold that verse 207 of Surat al-Baqara (the Verse of Shira') was revealed about this act of self-sacrifice. Some Sunni sources cite reports that apply the verse to other people, so there is disagreement about its occasion of revelation."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: Laylat al-Mabit", "url": "https://en.wikishia.net/view/Laylat_al-Mabit" },
+        { "title": "WikiShia: Qur'an 2:207", "url": "https://en.wikishia.net/view/Sale_Verse" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": true
+    },
+    {
+      "id": "ghadir-khumm",
+      "title": { "fa": "رویداد غدیر خم", "en": "The event of Ghadir Khumm" },
+      "summary": {
+        "fa": "سخنرانی پیامبر (ص) در بازگشت از حجة‌الوداع، که شیعیان آن را اعلام جانشینی علی (ع) می‌دانند.",
+        "en": "The Prophet's (s) address on the way back from the Farewell Pilgrimage, which Shia Muslims regard as the appointment of Ali (a) as his successor."
+      },
+      "period": { "fa": "۱۸ ذی‌الحجه ۱۰ هجری (۶۳۲ میلادی)", "en": "18 Dhu al-Hijja 10 AH (632 CE)" },
+      "body": {
+        "fa": [
+          "غدیر خم برکه‌ای است میان مکه و مدینه. بر پایهٔ منابع، پیامبر (ص) در بازگشت از حجة‌الوداع، در ۱۸ ذی‌الحجه سال ۱۰ هجری (حدود ۱۶ مارس ۶۳۲ میلادی) در این مکان برای همراهانش سخنرانی کرد.",
+          "شیعیان این سخنرانی را اعلام جانشینی امام علی (ع) می‌دانند و روز ۱۸ ذی‌الحجه را عید غدیر می‌نامند. دیدگاه اهل سنت دربارهٔ معنا و اهمیت این سخن با دیدگاه شیعه تفاوت دارد.",
+          "شمار حاضران در منابع مختلف از ده هزار تا هفتاد هزار نفر گزارش شده است."
+        ],
+        "en": [
+          "Ghadir Khumm is a pond between Mecca and Medina. According to the sources, on 18 Dhu al-Hijja 10 AH (about 16 March 632 CE), while returning from the Farewell Pilgrimage, the Prophet (s) addressed his companions at this place.",
+          "Shia Muslims understand the address as the appointment of Imam Ali (a) as successor and celebrate 18 Dhu al-Hijja as Eid al-Ghadir. Sunni views on the meaning and significance of the Prophet's words differ from the Shia view.",
+          "The number of people present is reported in different sources as anywhere from ten thousand to seventy thousand."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: Event of Ghadir Khumm", "url": "https://en.wikishia.net/view/Event_of_Ghadir_Khumm" },
+        { "title": "Wikipedia: Event of Ghadir Khumm", "url": "https://en.wikipedia.org/wiki/Eid_al-Ghadir" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": true
+    },
+    {
+      "id": "martyrdom-of-imam-ali",
+      "title": { "fa": "ضربت و شهادت در مسجد کوفه", "en": "The attack and martyrdom at the Mosque of Kufa" },
+      "summary": {
+        "fa": "ضربت ابن ملجم در نماز صبح و درگذشت امام علی (ع) دو روز بعد.",
+        "en": "Ibn Muljam's attack during the dawn prayer and the death of Imam Ali (a) two days later."
+      },
+      "period": { "fa": "رمضان ۴۰ هجری (۶۶۱ میلادی)", "en": "Ramadan 40 AH (661 CE)" },
+      "body": {
+        "fa": [
+          "بر پایهٔ منابع شیعی، بامداد ۱۹ رمضان سال ۴۰ هجری در مسجد کوفه، عبدالرحمن بن ملجم مرادی، از خوارج، با شمشیر زهرآلود به امام علی (ع) ضربه زد.",
+          "امام دو روز بعد، در ۲۱ رمضان، درگذشت. مرقد او در نجف اشرف است و شیعیان هر سال این شب‌ها را با مراسم احیا و سوگواری گرامی می‌دارند.",
+          "تاریخ دقیق ضربت و درگذشت در منابع مختلف اندکی متفاوت گزارش شده است (برای نمونه ۱۷، ۱۹ یا ۲۱ رمضان)."
+        ],
+        "en": [
+          "According to Shia sources, at dawn on 19 Ramadan 40 AH in the Mosque of Kufa, Abd al-Rahman ibn Muljam al-Muradi, a Kharijite, struck Imam Ali (a) with a poisoned sword.",
+          "The Imam died two days later, on 21 Ramadan. His shrine is in Najaf, and Shia Muslims commemorate these nights each year with vigils and mourning gatherings.",
+          "The exact dates of the attack and death are reported slightly differently across sources (for example 17, 19 or 21 Ramadan)."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: Eve of the 21st of Ramadan", "url": "https://en.wikishia.net/view/Eve_of_the_21st_of_Ramadan" },
+        { "title": "WikiShia: 40 AH", "url": "https://en.wikishia.net/view/40_AH" },
+        { "title": "Wikipedia: Assassination of Ali", "url": "https://en.wikipedia.org/wiki/Assassination_of_Ali" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": false
+    }
+  ]
+}

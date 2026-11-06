@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "what-is-nahj-al-balagha",
+      "title": { "fa": "نهج‌البلاغه چیست؟", "en": "What is Nahj al-Balagha?" },
+      "summary": {
+        "fa": "معرفی کوتاه گزیدهٔ خطبه‌ها، نامه‌ها و حکمت‌های منسوب به امام علی (ع).",
+        "en": "A short introduction to the selection of sermons, letters and sayings attributed to Imam Ali (a)."
+      },
+      "category": "knowledge",
+      "publishedAt": "2026-11-04",
+      "readingMinutes": 2,
+      "cover": null,
+      "body": {
+        "fa": [
+          "نهج‌البلاغه گزیده‌ای از خطبه‌ها، نامه‌ها و سخنان کوتاه منسوب به امام علی بن ابی‌طالب (ع) است که شریف رضی (۳۵۹ تا ۴۰۶ هجری) آن را گرد آورد. نام آن را می‌توان «قلّهٔ بلاغت» ترجمه کرد.",
+          "کتاب سه بخش دارد: خطبه‌ها، نامه‌ها و حکمت‌ها (سخنان کوتاه). بخش حکمت‌ها در چاپ صبحی صالح ۴۸۰ سخن دارد. شماره‌گذاری حکمت‌ها در چاپ‌ها و ترجمه‌های مختلف می‌تواند اندکی متفاوت باشد؛ به همین دلیل در ali110 هر سخن همراه با پیوند به نسخهٔ مرجعش آمده است.",
+          "سخنانی که در بخش احادیث این سایت می‌بینید از بخش حکمت‌ها انتخاب شده‌اند."
+        ],
+        "en": [
+          "Nahj al-Balagha is a selection of sermons, letters and short sayings attributed to Imam Ali ibn Abi Talib (a), compiled by al-Sharif al-Radi (359 to 406 AH). Its name can be rendered \"Peak of Eloquence\".",
+          "The book has three parts: sermons, letters and sayings (short wisdom statements). The sayings section has 480 entries in the Subhi al-Salih edition. Saying numbers can differ slightly between editions and translations, which is why every saying on ali110 links to the edition it was checked against.",
+          "The sayings in this site's Hadiths section are taken from that third part."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: List of Short Sayings of Nahj al-Balagha (draft)", "url": "https://en.wikishia.net/view/Draft:List_of_Short_Sayings_of_Nahj_al-Balagha" },
+        { "title": "Qutbuddin, Nahj al-Balaghah: The Wisdom and Eloquence of Ali (OAPEN)", "url": "https://library.oapen.org/handle/20.500.12657/92489?show=full" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": true
+    },
+    {
+      "id": "knowledge-and-action",
+      "title": { "fa": "دانش و عمل در سخنان امام علی (ع)", "en": "Knowledge and action in the sayings of Imam Ali (a)" },
+      "summary": {
+        "fa": "دو حکمت نهج‌البلاغه که دانش را به عمل و آداب پیوند می‌دهند.",
+        "en": "Two sayings from Nahj al-Balagha that tie knowledge to action and good manners."
+      },
+      "category": "reflection",
+      "publishedAt": "2026-11-04",
+      "readingMinutes": 2,
+      "cover": null,
+      "body": {
+        "fa": [
+          "در حکمت ۵ آمده که دانش میراثی گران‌بهاست، آداب جامه‌هایی همیشه تازه‌اند و اندیشه آینه‌ای زلال. دانش در اینجا فقط اطلاعات نیست؛ همراه با ادب و تفکر دیده می‌شود.",
+          "حکمت ۳۶۶ این پیوند را روشن‌تر می‌گوید: دانش با عمل همراه است و عمل را فرا می‌خواند؛ اگر پاسخ بگیرد می‌ماند، وگرنه می‌رود.",
+          "حکمت ۴۴۴ نکتهٔ سومی می‌افزاید: پایداری در کار اندک از کار بسیار و خسته‌کننده بهتر است. این سه سخن کنار هم نگاهی عملی به دانایی می‌دهند. این برداشت یادداشت تحریریهٔ ali110 است، نه ترجمه یا تفسیر منبع."
+        ],
+        "en": [
+          "Saying 5 describes knowledge as a noble inheritance, good manners as ever-renewed garments and reflection as a clear mirror. Here knowledge is more than information; it is seen together with manners and thought.",
+          "Saying 366 states the link more plainly: knowledge is joined to action and calls out to it; if action answers, knowledge stays, otherwise it leaves.",
+          "Saying 444 adds a third point: constancy in a small task beats a large one that wearies. Read together, the three sayings give a practical view of learning. This reading is an editorial note by ali110, not a translation or commentary from a source."
+        ]
+      },
+      "sources": [
+        { "title": "Nahj al-Balagha, Saying 5 (balagha.app)", "url": "https://balagha.app/Sayings/5/export" },
+        { "title": "Nahj al-Balagha, Saying 366 (balagha.app)", "url": "https://balagha.app/Sayings/366/export" },
+        { "title": "Nahj al-Balagha, Saying 444 (balagha.app)", "url": "https://balagha.app/Sayings/444/export" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": true
+    },
+    {
+      "id": "life-timeline",
+      "title": { "fa": "خط زمانی زندگی امام علی (ع)", "en": "A timeline of Imam Ali's (a) life" },
+      "summary": {
+        "fa": "رویدادهای اصلی از تولد تا شهادت، بر پایهٔ گاه‌شمار ویکی‌شیعه.",
+        "en": "The main events from birth to martyrdom, following WikiShia's timeline."
+      },
+      "category": "history",
+      "publishedAt": "2026-11-04",
+      "readingMinutes": 2,
+      "cover": null,
+      "body": {
+        "fa": [
+          "سال‌ها بر پایهٔ گاه‌شمار ویکی‌شیعه و به میلادی است و در منابع دیگر ممکن است اندکی تفاوت داشته باشد.",
+          "۵۹۹: تولد. ۶۰۵: آغاز حضور در خانهٔ پیامبر (ص). ۶۱۰: نخستین کسی که به اسلام ایمان آورد (به روایت این گاه‌شمار). ۶۱۶: حضور در محاصرهٔ شعب ابی‌طالب. ۶۱۹: درگذشت ابوطالب، پدرش.",
+          "۶۲۲: لیلة المبیت و هجرت به مدینه. ۶۲۴: شرکت در جنگ بدر و ازدواج با حضرت فاطمه (س). ۶۲۵: شرکت در جنگ احد. ۶۳۲: رویداد غدیر.",
+          "۶۶۱: ضربت در مسجد کوفه و شهادت در رمضان سال ۴۰ هجری."
+        ],
+        "en": [
+          "Years follow WikiShia's timeline and are given in the Common Era; other sources may differ slightly.",
+          "599: birth. 605: begins living in the Prophet's (s) household. 610: the first person to believe in Islam (according to this timeline). 616: present during the siege of Shi'b Abi Talib. 619: death of his father, Abu Talib.",
+          "622: Laylat al-Mabit and the emigration to Medina. 624: takes part in the Battle of Badr and marries Lady Fatima (a). 625: takes part in the Battle of Uhud. 632: the event of Ghadir.",
+          "661: struck in the Mosque of Kufa and martyred in Ramadan of 40 AH."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: Laylat al-Mabit (timeline of Imam Ali's life)", "url": "https://en.wikishia.net/view/Laylat_al-Mabit" },
+        { "title": "WikiShia: Event of Ghadir Khumm (timeline)", "url": "https://en.wikishia.net/view/Event_of_Ghadir_Khumm" },
+        { "title": "WikiShia: 40 AH", "url": "https://en.wikishia.net/view/40_AH" }
+      ],
+      "verification": { "status": "source-linked", "checkedAt": "2026-11-04" },
+      "featured": true
+    }
+  ]
+}

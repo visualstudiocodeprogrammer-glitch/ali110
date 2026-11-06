@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "knowledge-and-wisdom",
+      "icon": "book",
+      "title": { "fa": "دانش و حکمت", "en": "Knowledge and wisdom" },
+      "summary": {
+        "fa": "در سخنان نهج‌البلاغه، دانش میراثی گران‌بها و اندیشه آینه‌ای زلال توصیف شده است.",
+        "en": "In the sayings of Nahj al-Balagha, knowledge is described as a noble inheritance and reflection as a clear mirror."
+      },
+      "links": [
+        { "type": "hadiths", "id": "nahj-hikma-005" },
+        { "type": "hadiths", "id": "nahj-hikma-081" },
+        { "type": "articles", "id": "knowledge-and-action" }
+      ],
+      "featured": true
+    },
+    {
+      "id": "action-and-constancy",
+      "icon": "path",
+      "title": { "fa": "عمل و پایداری", "en": "Action and constancy" },
+      "summary": {
+        "fa": "دانش بی‌عمل ماندگار نیست و کار کوچکِ پیوسته از کار بزرگِ خسته‌کننده بهتر است.",
+        "en": "Knowledge that is not acted upon does not last, and a small deed done constantly beats a large one that wearies."
+      },
+      "links": [
+        { "type": "hadiths", "id": "nahj-hikma-366" },
+        { "type": "hadiths", "id": "nahj-hikma-444" },
+        { "type": "articles", "id": "knowledge-and-action" }
+      ],
+      "featured": true
+    },
+    {
+      "id": "self-sacrifice",
+      "icon": "shield",
+      "title": { "fa": "فداکاری", "en": "Self-sacrifice" },
+      "summary": {
+        "fa": "در شب هجرت، علی (ع) در بستر پیامبر (ص) خوابید تا مهاجمان از رفتن او آگاه نشوند.",
+        "en": "On the night of the Hijra, Ali (a) slept in the Prophet's (s) bed so that the attackers would not learn he had left."
+      },
+      "links": [
+        { "type": "narrations", "id": "laylat-al-mabit" }
+      ],
+      "featured": true
+    },
+    {
+      "id": "early-devotion",
+      "icon": "star",
+      "title": { "fa": "همراهی با پیامبر (ص)", "en": "Companionship with the Prophet (s)" },
+      "summary": {
+        "fa": "از کودکی در خانهٔ پیامبر (ص) بود و در رویدادهای بزرگ آغاز اسلام حضور داشت.",
+        "en": "He grew up in the Prophet's (s) household and took part in the major events of early Islam."
+      },
+      "links": [
+        { "type": "articles", "id": "life-timeline" },
+        { "type": "narrations", "id": "ghadir-khumm" }
+      ],
+      "featured": false
+    },
+    {
+      "id": "eloquence",
+      "icon": "pen",
+      "title": { "fa": "بلاغت و سخن", "en": "Eloquence" },
+      "summary": {
+        "fa": "نهج‌البلاغه، «قلّهٔ بلاغت»، گزیده‌ای از خطبه‌ها، نامه‌ها و حکمت‌های منسوب به امام علی (ع) است.",
+        "en": "Nahj al-Balagha, the \"Peak of Eloquence\", is a selection of sermons, letters and sayings attributed to Imam Ali (a)."
+      },
+      "links": [
+        { "type": "articles", "id": "what-is-nahj-al-balagha" }
+      ],
+      "featured": false
+    }
+  ]
+}

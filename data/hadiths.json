@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "nahj-hikma-005",
+      "arabic": "الْعِلْمُ وِرَاثَةٌ كَرِيمَةٌ، وَالْآدَابُ حُلَلٌ مُجَدَّدَةٌ، وَالْفِكْرُ مِرْآةٌ صَافِيَةٌ.",
+      "translation": {
+        "fa": "دانش میراثی گران‌بهاست، آداب جامه‌هایی همیشه تازه‌اند، و اندیشه آینه‌ای است زلال.",
+        "en": "Knowledge is a noble inheritance, good manners are ever-renewed garments, and reflection is a clear mirror.",
+        "status": "draft",
+        "translator": "ali110 editorial draft"
+      },
+      "source": {
+        "work": { "fa": "نهج‌البلاغه، گردآوری شریف رضی", "en": "Nahj al-Balagha, compiled by al-Sharif al-Radi" },
+        "reference": { "fa": "حکمت ۵", "en": "Saying 5" },
+        "url": "https://balagha.app/Sayings/5/export"
+      },
+      "narrator": null,
+      "verification": {
+        "status": "source-linked",
+        "note": {
+          "fa": "متن عربی با نسخهٔ برخط balagha.app مطابقت داده شد. شماره‌گذاری حکمت‌ها در چاپ‌های مختلف ممکن است اندکی متفاوت باشد. ترجمه‌ها پیش‌نویس‌اند و هنوز بازبینی نشده‌اند.",
+          "en": "The Arabic text was compared with the online edition at balagha.app. Saying numbers can differ slightly between printed editions. The translations are drafts and have not been reviewed yet."
+        },
+        "checkedAt": "2026-11-04"
+      },
+      "category": "knowledge",
+      "tags": ["knowledge", "manners", "thought"],
+      "featured": true,
+      "addedAt": "2026-11-04"
+    },
+    {
+      "id": "nahj-hikma-081",
+      "arabic": "قِيمَةُ كُلِّ امْرِئٍ مَا يُحْسِنُهُ.",
+      "translation": {
+        "fa": "ارزش هر کس به اندازهٔ چیزی است که آن را نیکو انجام می‌دهد.",
+        "en": "The worth of every person lies in what they do well.",
+        "status": "draft",
+        "translator": "ali110 editorial draft"
+      },
+      "source": {
+        "work": { "fa": "نهج‌البلاغه، گردآوری شریف رضی", "en": "Nahj al-Balagha, compiled by al-Sharif al-Radi" },
+        "reference": { "fa": "حکمت ۸۱", "en": "Saying 81" },
+        "url": "https://balagha.app/Sayings/81/export"
+      },
+      "narrator": null,
+      "verification": {
+        "status": "source-linked",
+        "note": {
+          "fa": "متن عربی با نسخهٔ برخط balagha.app مطابقت داده شد. شمارهٔ ۸۱ در فهرست کوتاه‌سخنان ویکی‌شیعه نیز با همین مضمون آمده است. ترجمه‌ها پیش‌نویس‌اند.",
+          "en": "The Arabic text was compared with the online edition at balagha.app; WikiShia's list of short sayings also gives this saying as number 81. The translations are drafts."
+        },
+        "checkedAt": "2026-11-04"
+      },
+      "category": "knowledge",
+      "tags": ["skill", "worth", "wisdom"],
+      "featured": true,
+      "addedAt": "2026-11-04"
+    },
+    {
+      "id": "nahj-hikma-366",
+      "arabic": "الْعِلْمُ مَقْرُونٌ بِالْعَمَلِ، فَمَنْ عَلِمَ عَمِلَ، وَالْعِلْمُ يَهْتِفُ بِالْعَمَلِ، فَإِنْ أَجَابَهُ وَإِلَّا ارْتَحَلَ عَنْهُ.",
+      "translation": {
+        "fa": "دانش با عمل همراه است؛ پس هر که بداند، عمل می‌کند. دانش عمل را فرا می‌خواند؛ اگر پاسخش دهد می‌ماند، وگرنه از او کوچ می‌کند.",
+        "en": "Knowledge is joined to action: whoever knows, acts. Knowledge calls out to action; if action answers, it stays, otherwise it departs.",
+        "status": "draft",
+        "translator": "ali110 editorial draft"
+      },
+      "source": {
+        "work": { "fa": "نهج‌البلاغه، گردآوری شریف رضی", "en": "Nahj al-Balagha, compiled by al-Sharif al-Radi" },
+        "reference": { "fa": "حکمت ۳۶۶", "en": "Saying 366" },
+        "url": "https://balagha.app/Sayings/366/export"
+      },
+      "narrator": null,
+      "verification": {
+        "status": "source-linked",
+        "note": {
+          "fa": "متن عربی با نسخهٔ برخط balagha.app مطابقت داده شد. شماره‌گذاری در چاپ‌ها و نسخه‌های دیگر (از جمله فهرست پیش‌نویس ویکی‌شیعه) یک شماره متفاوت است. ترجمه‌ها پیش‌نویس‌اند.",
+          "en": "The Arabic text was compared with the online edition at balagha.app. Other editions, including WikiShia's draft list, number it one place earlier. The translations are drafts."
+        },
+        "checkedAt": "2026-11-04"
+      },
+      "category": "practice",
+      "tags": ["knowledge", "action"],
+      "featured": true,
+      "addedAt": "2026-11-04"
+    },
+    {
+      "id": "nahj-hikma-444",
+      "arabic": "قَلِيلٌ مَدُومٌ عَلَيْهِ خَيْرٌ مِنْ كَثِيرٍ مَمْلُولٍ مِنْهُ.",
+      "translation": {
+        "fa": "کاری اندک که پیوسته انجام شود، از کاری بسیار که خسته‌کننده شود بهتر است.",
+        "en": "A little that is done constantly is better than a great deal that wearies.",
+        "status": "draft",
+        "translator": "ali110 editorial draft"
+      },
+      "source": {
+        "work": { "fa": "نهج‌البلاغه، گردآوری شریف رضی", "en": "Nahj al-Balagha, compiled by al-Sharif al-Radi" },
+        "reference": { "fa": "حکمت ۴۴۴", "en": "Saying 444" },
+        "url": "https://balagha.app/Sayings/444/export"
+      },
+      "narrator": null,
+      "verification": {
+        "status": "source-linked",
+        "note": {
+          "fa": "متن عربی با نسخهٔ برخط balagha.app مطابقت داده شد. شماره‌گذاری حکمت‌ها در چاپ‌های مختلف ممکن است متفاوت باشد. ترجمه‌ها پیش‌نویس‌اند.",
+          "en": "The Arabic text was compared with the online edition at balagha.app. Saying numbers can differ between editions. The translations are drafts."
+        },
+        "checkedAt": "2026-11-04"
+      },
+      "category": "practice",
+      "tags": ["consistency", "action"],
+      "featured": false,
+      "addedAt": "2026-11-04"
+    }
+  ]
+}

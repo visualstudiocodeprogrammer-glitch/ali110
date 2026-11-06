@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="ali110-base" content="">
+<title>صفحه پیدا نشد | ali110</title>
+<style>
+  body{margin:0;min-height:100vh;display:grid;place-items:center;padding:2rem;background:#063f38;color:#f4f1e6;font-family:Vazirmatn,system-ui,Tahoma,sans-serif;line-height:1.9;text-align:center}
+  main{max-width:34rem}
+  img{width:220px;height:auto;margin:0 auto 1.25rem}
+  h1{font-size:1.8rem;margin:0 0 .5rem;color:#d6b66e}
+  a{display:inline-block;margin-top:1rem;min-height:44px;padding:.5rem 1.5rem;border-radius:999px;background:#d6b66e;color:#1b2a25;font-weight:700;text-decoration:none;line-height:2}
+  .en{direction:ltr;margin-top:1.5rem;padding-top:1.25rem;border-top:1px solid rgba(255,255,255,.2);color:#bdd0ca}
+</style>
+</head>
+<body>
+<main>
+  <img id="logo" alt="ali110" width="220" height="118">
+  <h1>صفحه‌ای که دنبالش بودید پیدا نشد</h1>
+  <p>ممکن است نشانی تغییر کرده باشد یا اشتباه تایپ شده باشد.</p>
+  <div class="en" lang="en"><p>We could not find that page. The address may have changed or been mistyped.</p></div>
+  <a id="home" href="/">بازگشت به صفحهٔ اصلی / Home</a>
+</main>
+<script>
+  // Works on user sites, project sites (/repo/) and custom domains.
+  var meta = document.querySelector('meta[name="ali110-base"]').content;
+  var base = meta || (location.hostname.slice(-10) === '.github.io' && location.pathname.split('/')[1] ? '/' + location.pathname.split('/')[1] + '/' : '/');
+  if (base.slice(-1) !== '/') base += '/';
+  document.getElementById('home').href = base;
+  document.getElementById('logo').src = base + 'assets/logo/ali110-logo-480.webp';
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "note": "Written by scripts/fetch-daily-hadith.js. Each entry pins one hadith (by id) to a date. While this list is empty the site rotates through curated hadiths by day number.",
+  "entries": []
+}

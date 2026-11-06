@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "sections": [
+    {
+      "id": "who",
+      "title": { "fa": "امام علی (ع) کیست؟", "en": "Who was Imam Ali (a)?" },
+      "body": {
+        "fa": [
+          "علی بن ابی‌طالب (ع) پسرعمو و داماد پیامبر اسلام (ص) است. شیعیان او را نخستین امام و اهل سنت او را چهارمین خلیفهٔ راشدین می‌دانند.",
+          "بر پایهٔ گاه‌شمار ویکی‌شیعه، او در سال ۵۹۹ میلادی زاده شد و از کودکی در خانهٔ پیامبر (ص) بود. در رمضان سال ۴۰ هجری در مسجد کوفه ضربت خورد و درگذشت. مرقد او در نجف اشرف است.",
+          "سخنان او در نهج‌البلاغه، گزیدهٔ شریف رضی، گرد آمده است."
+        ],
+        "en": [
+          "Ali ibn Abi Talib (a) was the cousin and son-in-law of the Prophet of Islam (s). Shia Muslims regard him as the first Imam, and Sunni Muslims as the fourth of the Rashidun caliphs.",
+          "According to WikiShia's timeline he was born in 599 CE and grew up in the Prophet's (s) household. In Ramadan of 40 AH he was struck in the Mosque of Kufa and died of the wound. His shrine is in Najaf.",
+          "His sayings are gathered in Nahj al-Balagha, the selection compiled by al-Sharif al-Radi."
+        ]
+      },
+      "sources": [
+        { "title": "WikiShia: Laylat al-Mabit (timeline of Imam Ali's life)", "url": "https://en.wikishia.net/view/Laylat_al-Mabit" },
+        { "title": "Wikipedia: Assassination of Ali", "url": "https://en.wikipedia.org/wiki/Assassination_of_Ali" },
+        { "title": "Al-Islam.org: Appendix on Ali's martyrdom", "url": "https://al-islam.org/hi/one-thousand-virtues-merits-amir-al-muminin-ali-ibn-abu-talib/appendix-ali-and-martyrdom" }
+      ]
+    },
+    {
+      "id": "site",
+      "title": { "fa": "دربارهٔ ali110", "en": "About ali110" },
+      "body": {
+        "fa": [
+          "ali110 جایی است برای خواندن و گشتن در فضایل، سخنان، رویدادهای تاریخی و میراث امام علی (ع).",
+          "هر حدیث و هر روایت تاریخی پیوندی به منبع خود دارد. چیزی از خودمان به امام نسبت نمی‌دهیم و حدیث، راوی یا منبعی نمی‌سازیم.",
+          "هر مطلب یکی از این برچسب‌ها را دارد: «منبع بررسی‌شده» یعنی متن با منبع معتبر یا ارزیابی‌شده تطبیق داده شده؛ «دارای پیوند به منبع» یعنی منبع مشخص است ولی بازبینی کامل انجام نشده؛ «بررسی‌نشده» یعنی هنوز راستی‌آزمایی نشده است.",
+          "ترجمه‌هایی که با برچسب «پیش‌نویس» دیده می‌شوند هنوز بازبینی نشده‌اند و ترجمهٔ رسمی نیستند."
+        ],
+        "en": [
+          "ali110 is a place to read and browse the virtues, sayings, historical events and legacy of Imam Ali (a).",
+          "Every hadith and historical narration links to its source. We do not attribute anything to the Imam ourselves, and we do not invent hadiths, narrators or references.",
+          "Each item carries one of these labels: \"Source checked\" means the text was compared with a reliable or evaluated source; \"Source linked\" means a source is given but a full review is still pending; \"Unverified\" means it has not been verified yet.",
+          "Translations marked \"draft\" have not been reviewed yet and are not official translations."
+        ]
+      },
+      "sources": []
+    },
+    {
+      "id": "daily",
+      "title": { "fa": "حدیث روزانه چگونه کار می‌کند؟", "en": "How the daily hadith works" },
+      "body": {
+        "fa": [
+          "هر روز یک حدیث از مجموعهٔ گردآوری‌شده نمایش داده می‌شود. اگر برای آن روز حدیثی از منبع بیرونی ثبت شده باشد، همان نمایش داده می‌شود؛ در غیر این صورت سایت به‌صورت چرخشی از میان احادیث موجود انتخاب می‌کند.",
+          "می‌توان با دکمه‌های پیشین و بعدی به روزهای قبل رفت."
+        ],
+        "en": [
+          "One hadith from the collection is shown each day. If a hadith retrieved from an outside source has been recorded for that day it is shown; otherwise the site rotates through the available hadiths.",
+          "Use the previous and next buttons to move through earlier days."
+        ]
+      },
+      "sources": []
+    }
+  ]
+}

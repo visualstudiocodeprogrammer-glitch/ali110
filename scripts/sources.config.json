@@ -1,0 +1,7 @@
+{
+  "userAgent": "ali110-daily-hadith/1.0 (static site automation; contact via the repository's issues page)",
+  "timeoutMs": 15000,
+  "maxRetries": 3,
+  "delayMs": 1500,
+  "allowedHosts": ["wikishia.net", "imamali.net"]
+}

@@ -1,0 +1,57 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Content and unit tests must pass before anything is published.
+      - run: npm run check
+
+      - name: Work out the site URL
+        id: url
+        run: |
+          OWNER="$(echo "$GITHUB_REPOSITORY_OWNER" | tr '[:upper:]' '[:lower:]')"
+          REPO="${GITHUB_REPOSITORY#*/}"
+          if [ "$(echo "$REPO" | tr '[:upper:]' '[:lower:]')" = "$OWNER.github.io" ]; then
+            echo "site=https://$OWNER.github.io/" >> "$GITHUB_OUTPUT"
+          else
+            echo "site=https://$OWNER.github.io/$REPO/" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Generates page shells, sitemap, robots.txt, precache list into ./dist (only deployable files).
+      - run: npm run build:dist
+        env:
+          SITE_URL: ${{ vars.SITE_URL || steps.url.outputs.site }}
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
